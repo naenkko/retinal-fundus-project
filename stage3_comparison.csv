@@ -1,0 +1,9 @@
+Датасет,Метрика,RAW (до обработки),PROC (после обработки),Разница (PROC−RAW)
+eye_diseases,Accuracy,0.9163,0.9052,-0.0111
+eye_diseases,Macro-F1,0.915,0.9043,-0.0107
+eye_diseases,Balanced acc,0.9142,0.9043,-0.0098
+eye_diseases,ROC-AUC,0.9864,0.9862,-0.0003
+glaucoma,Accuracy,0.9234,0.9143,-0.0091
+glaucoma,Macro-F1,0.9234,0.9142,-0.0092
+glaucoma,Balanced acc,0.9234,0.9143,-0.0091
+glaucoma,ROC-AUC,0.9727,0.9661,-0.0066

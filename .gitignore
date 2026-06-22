@@ -1,0 +1,18 @@
+*.png
+*.jpg
+*.jpeg
+*.tiff
+
+# Python служебные файлы
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+.venv
+venv/
+venv1/
+
+processed_512/
+idrid/
+glaukoma_dataset/
+eye_classification/
